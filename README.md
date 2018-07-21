@@ -11,6 +11,14 @@ My personal environment.
 
 WIP
 
+## Clear installation
+
+Copy-paste to your terminal (it will be run bash script from `install` file):
+
+```bash
+curl -s https://raw.githubusercontent.com/Realetive/.dotfiles/master/install | bash -s arg1 arg2
+```
+
 ## Variables
 
 Environment variables to be `export`'ed.
